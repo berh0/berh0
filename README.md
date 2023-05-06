@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hackerrank Badge](https://img.shields.io/badge/hackerrank-Python Hackerrank Badge-yellow)](https://www.hackerrank.com/berham10)
+[![Hackerrank Badge](https://user-images.githubusercontent.com/95649889/236632136-63bed1e8-bf3b-4c1b-9895-8d51953c286a.png)](https://www.hackerrank.com/berham10)
+
