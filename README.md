@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href=" https://discordapp.com/users/berh0" target="_blank">
+  <a href="https://discordapp.com/users/berh0" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:berham10@gmail.com" target="_blank">
@@ -53,17 +53,6 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/berh0/berh0/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/rjievq7m0w70cn9e3953f6qfj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rjievq7m0w70cn9e3953f6qfj&count={5}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rjievq7m0w70cn9e3953f6qfj&count={5})](https://open.spotify.com/user/rjievq7m0w70cn9e3953f6qfj)
